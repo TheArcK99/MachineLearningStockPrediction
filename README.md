@@ -1,0 +1,1 @@
+These are a collection of programs I created for stock analysis. They include pulling basic stock info,creating charts like candlestick charts, and calculating values like SMA's. I also used LSTM's to predict the future value of a stock.
